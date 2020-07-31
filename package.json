@@ -1,5 +1,5 @@
 {
-  "name": "huntweb",
+  "name": "productlist",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -39,7 +39,7 @@
     ]
   },
   "devDependencies": {
-    "eslint": "^7.5.0",
+    "eslint": "^6.6.0",
     "husky": "^4.2.5",
     "prettier": "2.0.5"
   },
