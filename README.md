@@ -31,6 +31,11 @@ The page will reload if you make edits.<br />
 Access the link to know how to [Contribute](./CONTRIBUTING.md)
 
 
+## :boy: Author
+
+![Bruno Miranda](https://avatars3.githubusercontent.com/u/36895444?s=460&u=1050d3ca39dd6abf623f239b965dbf6508541f11&v=4)
+
+
 [1]:https://github.com/facebook/create-react-app
 [2]:https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
 [3]:https://nodejs.org/en/
