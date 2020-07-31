@@ -15,13 +15,25 @@
 
 > **IMPORTANT:** Run the file install_dependencies.sh to install the development dependencies.And be sure to see the `Code Style` of this project in [Contribute](./CONTRIBUTING.md).
 
-## :mega: Available Scripts
+## Makefile
 
-In the project directory, you can run:
+Some commands on this project are made using `GNU make`, to know available actions on make, use `make` or `make usage`:
 
-### `npm install`
+```bash
+make
 
-### `npm start`
+make usage
+```
+
+> Important! Don't forget to see the makefile commands, they will certainly help.
+
+## :mega: Development
+
+Build server:
+
+```sh
+make start
+```
 
 Runs the app in the development mode.<br />
 Open [http://localhost:5000](http://localhost:5000) to view it in the browser.
