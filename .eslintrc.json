@@ -1,16 +1,27 @@
 {
   "parser": "babel-eslint",
-  "extends": ["airbnb"],
+  "extends": [
+    "airbnb"
+  ],
   "rules": {
     "react/state-in-constructor": 0,
     "no-underscore-dangle": 0,
     "react/prop-types": 0,
-    "jsx-quotes": ["error", "prefer-single"],
+    "jsx-quotes": [
+      "error",
+      "prefer-single"
+    ],
     "react/jsx-filename-extension": [
       "error",
       {
-        "extensions": [".js", ".jsx"]
+        "extensions": [
+          ".js",
+          ".jsx"
+        ]
       }
+    ],
+    "react/destructuring-assignment": [
+      0
     ]
   },
   "globals": {
