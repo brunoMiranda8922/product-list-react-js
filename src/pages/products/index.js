@@ -9,8 +9,8 @@ export default class Products extends Component {
     product: {},
   };
 
-  async componentDidMount(props) {
-    const { id } = props.match.params;
+  async componentDidMount() {
+    const { id } = this.props.match.params;
     const response = await api.get(`/products/${id}`);
 
     this.setState({

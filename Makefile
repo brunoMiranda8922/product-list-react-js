@@ -15,5 +15,5 @@ usage: Makefile
 
 ## start: start application - create and start container.
 start:
-	@echo "$(OK_COLOR)==> Starting docker compose $(NO_COLOR)"
+	@echo "$(OK_COLOR)==> Starting docker compose :D $(NO_COLOR)"
 	$(DOCKER_COMPOSE) up --build

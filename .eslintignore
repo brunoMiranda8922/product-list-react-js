@@ -1,5 +1,11 @@
+# dependencies
 node_module/
+
+# production
 build/
 
 src/serviceWorker.js
 src/setupTests.js
+
+# testing
+/cypress
